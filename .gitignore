@@ -1,0 +1,3 @@
+# Project exclude paths
+/account-service/target/
+/config-server/target/

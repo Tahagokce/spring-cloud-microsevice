@@ -1,0 +1,7 @@
+version: '2'
+
+services:
+  cassandra:
+    image: 'arm64v8/cassandra'
+    ports:
+      - '9042:9042'
